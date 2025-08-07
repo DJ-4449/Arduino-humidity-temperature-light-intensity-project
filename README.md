@@ -1,4 +1,4 @@
-# Arduino-humidity-temperature-light-intensity-project
+# Arduino-humidity,temperature,light intensity-portable
 This program will enable the user to read the light intensity, humidity and temperature of the environment wherever he/she finds him/herself.
 
 Project is very simple and uses arudino IDE, arduino nano board, DHT11 sensor, LDR sensor, LCD display (4 bit), a battery and a bunch of wires.
