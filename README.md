@@ -8,10 +8,10 @@ Note that these cheap sensors are not very accurate (obviously). But they're goo
 
 ## Connecting the board
 ### LCD Display
-VSS - GND
-VDD - 5V
-VO - middle of potenciometer which is connected to 5V and GND
-RS - D12
+VSS - GND\n
+VDD - 5V\n
+VO - middle of potenciometer which is connected to 5V and GND\n
+RS - D12\n
 RW - GND
 E - D11
 D4 - D5 pin
